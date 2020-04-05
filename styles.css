@@ -1,0 +1,101 @@
+body {
+    color: black;
+    background-color: #79BEE9;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+    border: 12px double black;
+    border-radius: 25px;
+}
+
+.Barba {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.papa {
+    background-color: #FFB0E0;
+}
+
+.mama {
+    background-color: #000000;
+    width: 45%;
+    color: #F4B5D3;
+}
+    .mama > img {
+        border-color: #F4B5D3;
+    }
+
+.bok {
+    background-color: #FFA800;
+}
+
+.flink {
+    background-color: #3FB3F0;
+}
+
+.fin {
+    background-color: #C94CCE;
+}
+
+.skon {
+    background-color: black;
+    color: #93D1B7;
+}
+    .skon > img {
+        border-color: #93D1B7;
+    }
+
+.zoo {
+    background-color: #FFF51D;
+}
+
+.lala {
+    background-color: #00B04D;
+}
+
+.stark {
+    background-color: #FF2F2F;
+}
+
+a:link {
+    color: black;
+}
+  
+a:visited {
+    color: rgba(90, 90, 90, 0);
+}
+
+.header {
+    background: #79BEE9;
+    background-image: url("/images/Barbapapa.png");
+    height: 165px;
+    background-position: left;
+    background-repeat: no-repeat;
+    margin: 20px;
+    border-bottom: 12px double white;
+}
+
+.Barbaforaldrar {
+    margin-left: 350px;
+}
+
+.Barbaforaldrar td {
+    padding: 20px;
+}
+
+.Barbabarnen {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Barbabarnen td {
+    padding: 10px;
+}
